@@ -9,7 +9,7 @@ On an Arduino board:
 
 - Connect on/off switches to pins 2, 3 
 
-- Connect a buzzer to pin 13.
+- Connect a (dumb) buzzer to pin 13.
 
 - Connect leds to pins 7, 8, 9, 10, 11, 12
 
